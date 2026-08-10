@@ -1,4 +1,4 @@
-##soureces
+##sources
 [
 (https://www.forbes.com/sites/virginieberger/2026/08/05/suno-lost-to-gema-why-the-ruling-should-worry-ai-music-companies/
 
