@@ -8,4 +8,5 @@
 ## Topic
 AI copyright law
 
-
+## YouTube link
+https://youtu.be/681py0NR4nw
