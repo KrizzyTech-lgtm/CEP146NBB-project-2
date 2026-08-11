@@ -1,4 +1,4 @@
-##chatgpt respond
+## chatgpt respond
 
 I reviewed the GitHub repository and the submitted project materials against your rubric. I would not use Gemini’s 18/100 provisional grade, because the repository is accessible now and the missing 75 points can be evaluated directly.
 
